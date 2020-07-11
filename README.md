@@ -1,1 +1,1 @@
-# pepperFry-scrapy
+# pepperfry-scrapy
